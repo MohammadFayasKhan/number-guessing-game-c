@@ -43,7 +43,7 @@ cd path\to\number-guessing-game-c
 ```
 3.	Compile the program using GCC:
 ```bash
-cgcc main.c -o guessing_game.exe
+gcc main.c -o guessing_game.exe
 ```
 4.	Run the program:
 ```bash
@@ -67,5 +67,5 @@ gcc main.c -o guessing_game
 
 ## 👨‍💻 Author
 
-Developed with ❤️ by @Fayas
+Developed with ❤️ by @Fayas ---- 
 Feel free to connect or leave feedback!
