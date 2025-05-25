@@ -40,3 +40,32 @@ Welcome to my C programming project — a terminal-based **Number Guessing Game*
 2. Navigate to your project folder:
 ```bash
 cd path\to\number-guessing-game-c
+```
+3.	Compile the program using GCC:
+```bash
+cgcc main.c -o guessing_game.exe
+```
+4.	Run the program:
+```bash
+guessing_game.exe
+```
+
+### 🔹 On macOS / Linux:
+1.	Open Terminal
+2.	Navigate to your project folder:
+```bash
+cd ~/path/to/number-guessing-game-c
+```
+3.	Compile the program using GCC:
+```bash
+gcc main.c -o guessing_game
+```
+4.	Run the program:
+```bash
+./guessing_game
+```
+
+## 👨‍💻 Author
+
+Developed with ❤️ by @Fayas
+Feel free to connect or leave feedback!
